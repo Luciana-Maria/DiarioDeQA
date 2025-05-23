@@ -18,8 +18,8 @@ A partir desse momento, comecei a seguir profissionais da área no LinkedIn, abr
 
 Foi assim que cheguei no evento **QA Solitário 2025**, uma experiência intensa de cinco dias, que me apresentou:
 
-- Ferramentas poderosas (Postman, Playwright, Cypress)
-- Conceitos essenciais (BDD, automação, testes exploratórios)
+- Ferramentas poderosas
+- Conceitos essenciais 
 - A importância das soft skills (comunicação, empatia, colaboração)
 
 Esse evento não foi só conteúdo — foi uma imersão em uma comunidade que abraça quem está chegando.
@@ -56,20 +56,28 @@ Meu foco agora é:
 
 ## 📚 Meus recursos de aprendizado
 
-- Curso “Minha primeira API” — PrograMaria  
+- Teste de Software Manual: Do Planejamento à Execução - Udemi
 - Lógica de programação — SENAC  
 - Análise de dados com Python — PrograMaria
-- Meetup O impacto Estratégico do QA - Stefanini
--  Meet Up Vem Ser DBC | Como elevar a qualidade do time e impactar a sua carreira enquanto QA - DBC  
-- Eventos como QA Solitário 2025
-- aulão especial -Testes de Sistemas - Darede Academy/comunidade Cloudelas
+---
+  ## Eventos
+- MeetUp O impacto Estratégico do QA - Stefanini
+- MeetUp Vem Ser DBC | Como elevar a qualidade do time e impactar a sua carreira enquanto QA - DBC
+- - Imersão IA 2025 — Alura + Google  
+- QA Solitário 2025
+- Testes de Sistemas - Darede Academy/comunidade Cloudelas
 - Programa Desenvolve - Grupo Boticário
-- Mentoria Seja Tester QA
-- Coach de carreira - Escola da Nuvem
 - Teste de software- Júlio Lima
 - Bootcamp QA Turbo.
-
 ---
+## Mentorias
+- Mentoria Seja Tester - Aline Franca
+- Coach de carreira - Escola da Nuvem
+---
+
+## Comunidades
+- [QAsolitário](https://www.linkedin.com/company/qasolidario/posts/?feedView=all)
+- [Cantinho das QA](https://www.linkedin.com/company/cantinhodasqas/posts/?feedView=all) 
 
 ## 📫 Vamos nos conectar?
 
