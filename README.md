@@ -61,6 +61,7 @@ Meu foco agora é:
 - SQL para Análise de Dados: Do básico ao avançado -  Udemi
 - Testes Automáticos + Curso COMPLETO de Teste de Software - Udemi
 - Trilha de estudo - cantinhos das QAs
+- you Tube
 ---
   ## Eventos
 - MeetUp O impacto Estratégico do QA - Stefanini
