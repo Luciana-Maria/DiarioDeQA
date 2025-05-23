@@ -57,13 +57,15 @@ Meu foco agora é:
 ## 📚 Meus recursos de aprendizado
 
 - Teste de Software Manual: Do Planejamento à Execução - Udemi
-- Lógica de programação — SENAC  
-- Análise de dados com Python — PrograMaria
+- Metodologia Ágil - Seja ágil de verdade, ou seja, adaptável - Udemi
+- SQL para Análise de Dados: Do básico ao avançado -  Udemi
+- Testes Automáticos + Curso COMPLETO de Teste de Software - Udemi
+- Trilha de estudo - cantinhos das QAs
 ---
   ## Eventos
 - MeetUp O impacto Estratégico do QA - Stefanini
 - MeetUp Vem Ser DBC | Como elevar a qualidade do time e impactar a sua carreira enquanto QA - DBC
-- - Imersão IA 2025 — Alura + Google  
+- Imersão IA 2025 — Alura + Google  
 - QA Solitário 2025
 - Testes de Sistemas - Darede Academy/comunidade Cloudelas
 - Programa Desenvolve - Grupo Boticário
