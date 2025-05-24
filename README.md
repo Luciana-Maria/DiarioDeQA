@@ -56,10 +56,10 @@ Meu foco agora é:
 
 ## 📚 Meus recursos de aprendizado
 
-- Teste de Software Manual: Do Planejamento à Execução - Udemi
-- Metodologia Ágil - Seja ágil de verdade, ou seja, adaptável - Udemi
-- SQL para Análise de Dados: Do básico ao avançado -  Udemi
-- Testes Automáticos + Curso COMPLETO de Teste de Software - Udemi
+- Teste de Software Manual: Do Planejamento à Execução - Udemy
+- Metodologia Ágil - Seja ágil de verdade, ou seja, adaptável - Udemy
+- SQL para Análise de Dados: Do básico ao avançado -  Udemy
+- Testes Automáticos + Curso COMPLETO de Teste de Software - Udemy
 - Trilha de estudo - cantinhos das QAs
 - you Tube
 ---
