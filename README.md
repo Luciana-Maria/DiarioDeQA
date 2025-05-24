@@ -54,18 +54,28 @@ Meu foco agora é:
 
 ---
 
-## 📚 Meus recursos de aprendizado
+## 📚 Cursos e Trilhas
 
-- Teste de Software Manual: Do Planejamento à Execução - Udemy
-- Metodologia Ágil - Seja ágil de verdade, ou seja, adaptável - Udemy
-- SQL para Análise de Dados: Do básico ao avançado -  Udemy
-- Testes Automáticos + Curso COMPLETO de Teste de Software - Udemy
-- Trilha de estudo - cantinhos das QAs
-- you Tube
+| Nº | Curso/Trilha                                                         | Plataforma         | Categoria           | Status           | Início | Conclusão | Observações                         |
+|----|----------------------------------------------------------------------|--------------------|----------------------|--------------------|--------|-----------|-------------------------------------|
+| 1  | Teste de Software Manual: Do Planejamento à Execução                 | Udemy              | QA - Manual          |  iniciado   |        |           |                                     |
+| 2  | Testes Automáticos + Curso COMPLETO de Teste de Software             | Udemy              | QA - Automação       |  iniciado   |        |           |                                     |
+| 3  | Jira + Xray 2024: Plano de Teste                                     | Udemy              | Ferramentas QA       | ⬜️ Não iniciado   |        |           | Foco em gestão de testes            |
+| 4  | Metodologia Ágil - Seja ágil de verdade                              | Udemy              | Metodologias Ágeis   | Concluido  | 22/05       |  24/05         |           Trabalhar en equipe|
+| 5  | Papéis do Product Owner e Scrum Master + Agilidade                   | Udemy              | Metodologias Ágeis   | ⬜️ Não iniciado   |        |           |                                     |
+| 6  | Como construir um Backlog Eficiênte                                  | Udemy              | Product Management   | ⬜️ Não iniciado   |        |           | Complementa agilidade               |
+| 7  | SQL para Análise de Dados: Do básico ao avançado                     | Udemy              | Dados / SQL          | ⬜️ Não iniciado   |        |           | Muito útil para QA & dados          |
+| 8  | Criação de Dashboards com Metabase                                   | Udemy              | Dados / Visualização | ⬜️ Não iniciado   |        |           | Para insights em testes             |
+| 9  | Manipulação de Dados com Linguagem Python                            | Udemy              | Dados / Python       | ⬜️ Não iniciado   |        |           | Apoia testes e automação            |
+| 10 | Curso de Git Para Testers                                            | YouTube/GitHub     | Ferramentas QA       |  iniciado   |        |           | Essencial p/ versionamento          |
+| 11 | Trilha de estudo - Cantinho das QAs                                  | Site/Instagram     | Curadoria QA         |  iniciado   |        |           | Inclui vários temas, acompanhar     |
+| 12 | Vídeos no YouTube (QA, dados, etc.)                                  | YouTube            | Estudo Livre         | iniciado   |        |           | Marcar os melhores canais/vídeos    |
+
 ---
   ## Eventos
 - MeetUp O impacto Estratégico do QA - Stefanini
 - MeetUp Vem Ser DBC | Como elevar a qualidade do time e impactar a sua carreira enquanto QA - DBC
+- JIC-Jornada Impulsionando sua Carreira
 - Imersão IA 2025 — Alura + Google  
 - QA Solitário 2025
 - Testes de Sistemas - Darede Academy/comunidade Cloudelas
@@ -75,7 +85,7 @@ Meu foco agora é:
 ---
 ## Mentorias
 - Mentoria Seja Tester - Aline Franca
-- Coach de carreira - Escola da Nuvem
+- Coach de carreira - Juliana - Escola da Nuvem
 ---
 
 ## Comunidades
