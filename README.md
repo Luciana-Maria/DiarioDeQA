@@ -64,22 +64,25 @@ Meu foco agora é:
 | 4  | Metodologia Ágil - Seja ágil de verdade                              | Udemy              | Metodologias Ágeis   | Concluido  | 22/05       |  24/05         |           Trabalhar en equipe|
 | 5  | Papéis do Product Owner e Scrum Master + Agilidade                   | Udemy              | Metodologias Ágeis   | ⬜️ Não iniciado   |        |           |                                     |
 | 6  | Como construir um Backlog Eficiênte                                  | Udemy              | Product Management   | ⬜️ Não iniciado   |        |           | Complementa agilidade               |
-| 7  | SQL para Análise de Dados: Do básico ao avançado                     | Udemy              | Dados / SQL          | ⬜️ Não iniciado   |        |           | Muito útil para QA & dados          |
+| 7  | SQL para Análise de Dados: Do básico ao avançado                     | Udemy              | Dados / SQL          | ⬜️ iniciado   |        |           | Muito útil para QA & dados          |
 | 8  | Criação de Dashboards com Metabase                                   | Udemy              | Dados / Visualização | ⬜️ Não iniciado   |        |           | Para insights em testes             |
 | 9  | Manipulação de Dados com Linguagem Python                            | Udemy              | Dados / Python       | ⬜️ Não iniciado   |        |           | Apoia testes e automação            |
 | 10 | Curso de Git Para Testers                                            | YouTube/GitHub     | Ferramentas QA       |  iniciado   |        |           | Essencial p/ versionamento          |
 | 11 | Trilha de estudo - Cantinho das QAs                                  | Site/Instagram     | Curadoria QA         |  iniciado   |        |           | Inclui vários temas, acompanhar     |
 | 12 | Vídeos no YouTube (QA, dados, etc.)                                  | YouTube            | Estudo Livre         | iniciado   |        |           | Marcar os melhores canais/vídeos    |
 
+
 ---
-  ## Eventos
+  ## Eventos/trilha
 - MeetUp O impacto Estratégico do QA - Stefanini
 - MeetUp Vem Ser DBC | Como elevar a qualidade do time e impactar a sua carreira enquanto QA - DBC
-- JIC-Jornada Impulsionando sua Carreira
+- Meetup - Tendências Tech 2025: A Era das Experiências Inteligentes - - Stefanini
+- JIC-Jornada Impulsionando sua Carreira - Escola da Nuvem
 - Imersão IA 2025 — Alura + Google  
 - QA Solitário 2025
 - Testes de Sistemas - Darede Academy/comunidade Cloudelas
 - Programa Desenvolve - Grupo Boticário
+- Trilha Comunicação Assertiva Programaria
 - Teste de software- Júlio Lima
 - Bootcamp QA Turbo.
 ---
