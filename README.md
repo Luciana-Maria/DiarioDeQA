@@ -58,10 +58,10 @@ Meu foco agora é:
 
 | Nº | Curso/Trilha                                                         | Plataforma         | Categoria           | Status           | Início | Conclusão | Observações                         |
 |----|----------------------------------------------------------------------|--------------------|----------------------|--------------------|--------|-----------|-------------------------------------|
-| 1  | Teste de Software Manual: Do Planejamento à Execução                 | Udemy              | QA - Manual          |  concluido   |     20/05   |      05/06     |                                     |
+| 1  | Teste de Software Manual: Do Planejamento à Execução                 | Udemy              | QA - Manual          |  concluido   |     20/05   |      05/06     |     Fundamentos                                |
 | 2  | Testes Automáticos + Curso COMPLETO de Teste de Software             | Udemy              | QA - Automação       |  iniciado   |        |           |                                     |
 | 3  | Jira + Xray 2024: Plano de Teste                                     | Udemy              | Ferramentas QA       | ⬜️ Não iniciado   |        |           | Foco em gestão de testes            |
-| 4  | Metodologia Ágil - Seja ágil de verdade                              | Udemy              | Metodologias Ágeis   | Concluido  | 22/05       |  24/05         |           Trabalhar en equipe|
+| 4  | Metodologia Ágil - Seja ágil de verdade                              | Udemy              | Metodologias Ágeis   | Concluido  | 22/05       |  24/05         |           Trabalhar em equipe|
 | 5  | Papéis do Product Owner e Scrum Master + Agilidade                   | Udemy              | Metodologias Ágeis   | ⬜️ Não iniciado   |        |           |                                     |
 | 6  | Como construir um Backlog Eficiênte                                  | Udemy              | Product Management   | ⬜️ Não iniciado   |        |           | Complementa agilidade               |
 | 7  | SQL para Análise de Dados: Do básico ao avançado                     | Udemy              | Dados / SQL          | ⬜️ iniciado   |        |           | Muito útil para QA & dados          |
