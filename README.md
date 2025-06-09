@@ -70,6 +70,7 @@ Meu foco agora é:
 | 10 | Curso de Git Para Testers                                            | YouTube/GitHub     | Ferramentas QA       |  iniciado   |        |           | Essencial p/ versionamento          |
 | 11 | Trilha de estudo - Cantinho das QAs                                  | Site/Instagram     | Curadoria QA         |  iniciado   |        |           | Inclui vários temas, acompanhar     |
 | 12 | Vídeos no YouTube (QA, dados, etc.)                                  | YouTube            | Estudo Livre         | iniciado   |        |           | Marcar os melhores canais/vídeos    |
+| 13 | Curso Front-end: Minha primeira página Web                           | Programaria        | Tecnologia           | finalizado   |    29/05    |    09/06       | HTML/CSS/Javascript/Github  |
 
 
 ---
