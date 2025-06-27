@@ -4,11 +4,11 @@
 
 ---
 
-### ✨ Virada de chave: o Meetup que mudou tudo
+### ✨ Virada de chave: o MeetUp que mudou tudo
 
-Minha trajetória na área de tecnologia ganhou um brilho especial no dia em que participei de um **meetup da Stefanini**, com o palestrante incrível **César**. Foi ali que percebi que QA não era só testar software, era entrar na pele do usuário e garantir uma experiência limpa, funcional e humana.
+Minha trajetória na área de tecnologia ganhou um brilho especial no dia em que participei de um **meetUp da Stefanini**, com o palestrante incrível **César**. Foi ali que percebi que QA não era só testar software, era entrar na pele do usuário e garantir uma experiência limpa, funcional e humana.
 
-> “Testar é cuidar, é proteger a jornada do outro.” — César, Stefanini
+> “Testar é cuidar, é proteger a jornada do outro.” 
 
 A partir desse momento, comecei a seguir profissionais da área no LinkedIn, abrir portas para conhecer eventos, trocar ideias e construir meu networking.
 
@@ -36,14 +36,6 @@ O networking que construí me abriu portas para uma mentoria de carreira, onde r
 
 ---
 
-### 💡 Projetos práticos e estudos
-
-Para traduzir esse aprendizado em prática, criei o projeto **QA Bot** — um assistente em Python que usa IA para gerar casos de teste automatizados em BDD a partir da descrição de funcionalidades.
-
-Além disso, estou estudando intensamente para as certificações AWS Cloud Practitioner, para fortalecer minha base técnica.
-
----
-
 ### 💼 Busca ativa por oportunidades
 
 Meu foco agora é:
@@ -60,16 +52,16 @@ Meu foco agora é:
 |----|----------------------------------------------------------------------|--------------------|----------------------|--------------------|--------|-----------|-------------------------------------|
 | 1  | Teste de Software Manual: Do Planejamento à Execução                 | Udemy              | QA - Manual          |  concluido   |     20/05   |      05/06     |     Fundamentos                                |
 | 2  | Testes Automáticos + Curso COMPLETO de Teste de Software             | Udemy              | QA - Automação       |  iniciado   |        |           |                                     |
-| 3  | Jira + Xray 2024: Plano de Teste                                     | Udemy              | Ferramentas QA       | ⬜️ Não iniciado   |        |           | Foco em gestão de testes            |
+| 3  | Jira + Xray 2024: Plano de Teste                                     | Udemy              | Ferramentas QA       | concluido |    05/06   |     26/06      | Foco em gestão de testes            |
 | 4  | Metodologia Ágil - Seja ágil de verdade                              | Udemy              | Metodologias Ágeis   | Concluido  | 22/05       |  24/05         |           Trabalhar em equipe|
 | 5  | Papéis do Product Owner e Scrum Master + Agilidade                   | Udemy              | Metodologias Ágeis   | ⬜️ Não iniciado   |        |           |                                     |
-| 6  | Como construir um Backlog Eficiênte                                  | Udemy              | Product Management   | ⬜️ Não iniciado   |        |           | Complementa agilidade               |
+| 6  | Como construir um Backlog Eficiênte                                  | Udemy              | Product Management   | concluido  |   26/06     |   26/06        | Complementa agilidade               |
 | 7  | SQL para Análise de Dados: Do básico ao avançado                     | Udemy              | Dados / SQL          | ⬜️ iniciado   |        |           | Muito útil para QA & dados          |
 | 8  | Criação de Dashboards com Metabase                                   | Udemy              | Dados / Visualização | ⬜️ Não iniciado   |        |           | Para insights em testes             |
 | 9  | Manipulação de Dados com Linguagem Python                            | Udemy              | Dados / Python       | ⬜️ Não iniciado   |        |           | Apoia testes e automação            |
-| 10 | Curso de Git Para Testers                                            | YouTube/GitHub     | Ferramentas QA       |  iniciado   |        |           | Essencial p/ versionamento          |
-| 11 | Trilha de estudo - Cantinho das QAs                                  | Site/Instagram     | Curadoria QA         |  iniciado   |        |           | Inclui vários temas, acompanhar     |
-| 12 | Vídeos no YouTube (QA, dados, etc.)                                  | YouTube            | Estudo Livre         | iniciado   |        |           | Marcar os melhores canais/vídeos    |
+| 10 | Curso de Git Para Testers                                            | YouTube/GitHub     | Ferramentas QA       |  concluido |      20/05  |       30/05    | Essencial p/ versionamento          |
+| 11 | Trilha de estudo - Cantinho das QAs                                  | Site/Instagram     | Curadoria QA         |  iniciado   |    04/05    |           | Inclui vários temas, acompanhar     |
+| 12 | Vídeos no YouTube (QA, dados, etc.)                                  | YouTube            | Estudo Livre         | iniciado   |   02/04     |           | Marcar os melhores canais/vídeos    |
 | 13 | Curso Front-end: Minha primeira página Web                           | Programaria        | Tecnologia           | finalizado   |    29/05    |    09/06       | HTML/CSS/Javascript/Github  |
 
 
