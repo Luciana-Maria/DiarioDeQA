@@ -1,6 +1,10 @@
 # 🚀 Jornada de Transição para QA — Luciana
 
 ## Minha história, meus passos, minha rede
+---
+### Sobre mim
+
+Olá! Sou Luciana, profissional em transição de carreira para a área de **Qualidade de Software (QA)**. Sou formada em Análise e Desenvolvimento de Sistemas e também em Pedagogia, com uma forte base em lógica, raciocínio estruturado e comunicação.
 
 ---
 
@@ -48,22 +52,22 @@ Meu foco agora é:
 
 ## 📚 Cursos e Trilhas
 
-| Nº | Curso/Trilha                                                         | Plataforma         | Categoria           | Status           | Início | Conclusão | Observações                         |
-|----|----------------------------------------------------------------------|--------------------|----------------------|--------------------|--------|-----------|-------------------------------------|
-| 1  | Teste de Software Manual: Do Planejamento à Execução                 | Udemy              | QA - Manual          |  concluido   |     20/05   |      05/06     |     Fundamentos                                |
-| 2  | Testes Automáticos + Curso COMPLETO de Teste de Software             | Udemy              | QA - Automação       |  iniciado   |        |           |                                     |
-| 3  | Jira + Xray 2024: Plano de Teste                                     | Udemy              | Ferramentas QA       | concluido |    05/06   |     26/06      | Foco em gestão de testes            |
-| 4  | Metodologia Ágil - Seja ágil de verdade                              | Udemy              | Metodologias Ágeis   | Concluido  | 22/05       |  24/05         |           Trabalhar em equipe|
-| 5  | Papéis do Product Owner e Scrum Master + Agilidade                   | Udemy              | Metodologias Ágeis   | ⬜️ Não iniciado   |        |           |                                     |
-| 6  | Como construir um Backlog Eficiênte                                  | Udemy              | Product Management   | concluido  |   26/06     |   26/06        | Complementa agilidade               |
-| 7  | SQL para Análise de Dados: Do básico ao avançado                     | Udemy              | Dados / SQL          | ⬜️ iniciado   |        |           | Muito útil para QA & dados          |
-| 8  | Criação de Dashboards com Metabase                                   | Udemy              | Dados / Visualização | ⬜️ Não iniciado   |        |           | Para insights em testes             |
-| 9  | Manipulação de Dados com Linguagem Python                            | Udemy              | Dados / Python       | ⬜️ Não iniciado   |        |           | Apoia testes e automação            |
-| 10 | Curso de Git Para Testers                                            | YouTube/GitHub     | Ferramentas QA       |  concluido |      20/05  |       30/05    | Essencial p/ versionamento          |
-| 11 | Trilha de estudo - Cantinho das QAs                                  | Site/Instagram     | Curadoria QA         |  iniciado   |    04/05    |           | Inclui vários temas, acompanhar     |
-| 12 | Vídeos no YouTube (QA, dados, etc.)                                  | YouTube            | Estudo Livre         | iniciado   |   02/04     |           | Marcar os melhores canais/vídeos    |
-| 13 | Curso Front-end: Minha primeira página Web                           | Programaria        | Tecnologia           | finalizado   |    29/05    |    09/06       | HTML/CSS/Javascript/Github  |
-
+| Nº | Curso/Trilha                                                         | Plataforma         | Categoria            | Status             | Início | Conclusão | Observações                      |
+|----|----------------------------------------------------------------------|--------------------|----------------------|--------------------|--------|-----------|----------------------------------|
+| 1  | Teste de Software Manual: Do Planejamento à Execução                 | Udemy              | QA - Manual          |  concluido         |20/05   |  05/06    |     Fundamentos                  |                 
+| 2  | Testes Automáticos + Curso COMPLETO de Teste de Software             | Udemy              | QA - Automação       |  iniciado          |        |           |                                  |
+| 3  | Jira + Xray 2024: Plano de Teste                                     | Udemy              | Ferramentas QA       | concluido          | 05/06  |  26/06    |   Foco em gestão de testes       |
+| 4  | Metodologia Ágil - Seja ágil de verdade                              | Udemy              | Metodologias Ágeis   | Concluido          |  24/05 |           |   Trabalhar em equipe            |
+| 5  | Papéis do Product Owner e Scrum Master + Agilidade                   | Udemy              | Metodologias Ágeis   |  Não iniciado      |        |           |   Agilidade                      |           
+| 6  | Como construir um Backlog Eficiênte                                  | Udemy              | Product Management   | concluido          |  26/06 | 26/06     |   Complementa agilidade          |           
+| 7  | SQL para Análise de Dados: Do básico ao avançado                     | Udemy              | Dados / SQL          |  iniciado          |        |           |   Muito útil para QA & dados     |
+| 8  | Criação de Dashboards com Metabase                                   | Udemy              | Dados / Visualização |  Não iniciado      |        |           | Para insights em testes          |
+| 9  | Manipulação de Dados com Linguagem Python                            | Udemy              | Dados / Python       |  Não iniciado      |        |           | Apoia testes e automação         |
+| 10 | Curso de Git Para Testers                                            | YouTube/GitHub     | Ferramentas QA       |  concluido         |  20/05 | 26/06     | Essencial p/ versionamento       |
+| 11 | Trilha de estudo - Cantinho das QAs                                  | Site/Instagram     | Curadoria QA         |  iniciado          |  04/05 |           | Inclui vários temas, acompanhar  |
+| 12 | Vídeos no YouTube (QA, dados, etc.)                                  | YouTube            | Estudo Livre         | iniciado           |  02/04 |           | Marcar os melhores canais/vídeos |
+| 13 | Curso Front-end: Minha primeira página Web                           | Programaria        | Tecnologia           |  Concluindo        |  29/06 | 09/06     | HTML/CSS/Javascript/Github       |
+| 14 | Fundamentos em teste de software                                     | TIC em Trilhas     |  QA - Manual         |  Concluindo        |  29/06 | 09/06     |    Fundamentos                   |
 
 ---
   ## Eventos/trilha
